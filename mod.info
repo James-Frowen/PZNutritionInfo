@@ -1,0 +1,5 @@
+name=Nutrition Info
+poster=poster.png
+id=NutritionInfo
+description=Window to show character nutrition values
+url=https://github.com/James-Frowen/PZNutritionInfo
